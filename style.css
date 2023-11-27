@@ -62,7 +62,7 @@
     position: absolute;
     top: 50%;
     transform: translateY(-50%);
-    text-align: center;
+    text-align: left;
     font-family: 'Roboto';font-size: 22px;
     margin: 0px;
     color: #FFF;
